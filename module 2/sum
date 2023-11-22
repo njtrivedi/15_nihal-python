@@ -1,0 +1,6 @@
+num=int(input("enter any num"))
+value=0
+for i in range(num):
+    value=i+value
+
+print(value)
